@@ -1,4 +1,23 @@
 {
-  "leads": [],
-  "lastUpdated": ""
+  "leads": [
+    {
+      "id": "mpsi7e4f8vpf0dn8ltf",
+      "name": "Phillip Ezra",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/phillip.ezra",
+      "source": "Facebook",
+      "status": "2WT",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-01",
+      "notes": "Sniper Pro Ad lead.  Some interaction about the scanner.  Wanted info.  Sent Info.  Nothing after that.",
+      "lastModified": "2026-05-30",
+      "dateAdded": "2026-05-30",
+      "addedAt": "2026-05-30T15:26:39.428Z"
+    }
+  ],
+  "lastUpdated": "2026-05-30T15:26:39.436Z"
 }

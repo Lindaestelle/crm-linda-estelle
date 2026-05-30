@@ -17,7 +17,25 @@
       "lastModified": "2026-05-30",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T15:26:39.428Z"
+    },
+    {
+      "id": "mpsin2ebuwj0m7d2d9",
+      "name": "George Murphy",
+      "email": "seiorse71@gmail.com",
+      "phone": "",
+      "social": "https://www.facebook.com/george.murphyjr.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-01",
+      "notes": "Sniper Pro ad lead.  Asked for information.  Sent.  No contact after that.",
+      "lastModified": "2026-05-30",
+      "dateAdded": "2026-05-30",
+      "addedAt": "2026-05-30T15:38:50.725Z"
     }
   ],
-  "lastUpdated": "2026-05-30T15:26:39.436Z"
+  "lastUpdated": "2026-05-30T15:38:50.725Z"
 }

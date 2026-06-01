@@ -107,7 +107,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T20:38:56.370Z"
+    },
+    {
+      "id": "mpvoe43ff0nenc74m7c",
+      "name": "Davis",
+      "email": "ziyuansunba@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2025-12-09",
+      "nextFollowUp": "2026-06-03",
+      "notes": "Sniper Pro scanner AD, no interaction",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T20:43:09.244Z"
     }
   ],
-  "lastUpdated": "2026-06-01T20:38:56.371Z"
+  "lastUpdated": "2026-06-01T20:43:09.245Z"
 }

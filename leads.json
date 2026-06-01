@@ -71,7 +71,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T20:27:31.363Z"
+    },
+    {
+      "id": "mpvo2etkb1nj7056pn",
+      "name": "Ron Muck",
+      "email": "ronaldemuck@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2025-11-30",
+      "nextFollowUp": "2026-06-03",
+      "notes": "Sniper Pro ad, no interaction",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T20:34:03.272Z"
     }
   ],
-  "lastUpdated": "2026-06-01T20:27:31.363Z"
+  "lastUpdated": "2026-06-01T20:34:03.273Z"
 }

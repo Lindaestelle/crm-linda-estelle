@@ -89,7 +89,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T20:34:03.272Z"
+    },
+    {
+      "id": "mpvo8oz5f6jp1iywm7",
+      "name": "Pat Bleistein",
+      "email": "patbleistein@aol.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-03",
+      "notes": "Sniper Pro lead, no interaction",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T20:38:56.370Z"
     }
   ],
-  "lastUpdated": "2026-06-01T20:34:03.273Z"
+  "lastUpdated": "2026-06-01T20:38:56.371Z"
 }

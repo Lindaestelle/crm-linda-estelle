@@ -269,7 +269,25 @@
       "lastModified": "2026-07-09",
       "dateAdded": "2026-07-09",
       "addedAt": "2026-07-09T11:36:08.006Z"
+    },
+    {
+      "id": "mrdfnrct5mdre4lruwj",
+      "name": "Mr. Green",
+      "email": "mrgreen96707@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": "2026-07-12",
+      "notes": "From last year fb ad.  No interaction",
+      "lastModified": "2026-07-09",
+      "dateAdded": "2026-07-09",
+      "addedAt": "2026-07-09T11:38:16.254Z"
     }
   ],
-  "lastUpdated": "2026-07-09T11:36:08.006Z"
+  "lastUpdated": "2026-07-09T11:38:16.254Z"
 }

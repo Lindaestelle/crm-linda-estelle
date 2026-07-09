@@ -485,7 +485,25 @@
       "lastModified": "2026-07-09",
       "dateAdded": "2026-07-09",
       "addedAt": "2026-07-09T12:00:19.856Z"
+    },
+    {
+      "id": "mrdgi2v5ucz5b9prcs",
+      "name": "Gina Schooler",
+      "email": "ginaschooler@live.com",
+      "phone": "",
+      "social": "",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": "2026-07-12",
+      "notes": "jan 2026 fb ad.  no interaction",
+      "lastModified": "2026-07-09",
+      "dateAdded": "2026-07-09",
+      "addedAt": "2026-07-09T12:01:50.849Z"
     }
   ],
-  "lastUpdated": "2026-07-09T12:00:19.856Z"
+  "lastUpdated": "2026-07-09T12:01:50.849Z"
 }

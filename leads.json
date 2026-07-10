@@ -719,7 +719,25 @@
       "lastModified": "2026-07-10",
       "dateAdded": "2026-07-10",
       "addedAt": "2026-07-10T13:07:13.091Z"
+    },
+    {
+      "id": "mreyd7e1ukv9r3n981",
+      "name": "Steve Hoffman",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-10",
+      "nextFollowUp": "2026-07-13",
+      "notes": "Jan fb ad, yes interaction",
+      "lastModified": "2026-07-10",
+      "dateAdded": "2026-07-10",
+      "addedAt": "2026-07-10T13:09:42.697Z"
     }
   ],
-  "lastUpdated": "2026-07-10T13:07:13.091Z"
+  "lastUpdated": "2026-07-10T13:09:42.697Z"
 }

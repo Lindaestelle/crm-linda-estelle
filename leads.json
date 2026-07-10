@@ -755,7 +755,25 @@
       "lastModified": "2026-07-10",
       "dateAdded": "2026-07-10",
       "addedAt": "2026-07-10T13:12:03.516Z"
+    },
+    {
+      "id": "mreyl5bsua6mopgm9rq",
+      "name": "Gregory",
+      "email": "Lustbaltimore@outlook.com",
+      "phone": "",
+      "social": "",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-10",
+      "nextFollowUp": "2026-07-13",
+      "notes": "Jan 2026 fb ad, yes interaction",
+      "lastModified": "2026-07-10",
+      "dateAdded": "2026-07-10",
+      "addedAt": "2026-07-10T13:15:53.272Z"
     }
   ],
-  "lastUpdated": "2026-07-10T13:12:03.516Z"
+  "lastUpdated": "2026-07-10T13:15:53.272Z"
 }

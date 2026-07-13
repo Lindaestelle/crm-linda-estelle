@@ -100,11 +100,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-08",
-      "nextFollowUp": "2026-07-11",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-07-13",
+      "nextFollowUp": "2026-07-15",
       "notes": "Sniper Pro scanner AD, no interaction",
-      "lastModified": "2026-07-08",
+      "lastModified": "2026-07-13",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T20:43:09.244Z"
     },
@@ -1189,5 +1189,5 @@
       "addedAt": "2026-07-13T12:09:16.878Z"
     }
   ],
-  "lastUpdated": "2026-07-13T12:27:25.276Z"
+  "lastUpdated": "2026-07-13T12:30:56.964Z"
 }

@@ -423,7 +423,7 @@
       "source": "Instagram",
       "status": "Sent Video",
       "videoSent": true,
-      "temperature": "Cold",
+      "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-13",
       "nextFollowUp": "2026-07-15",
@@ -1189,5 +1189,5 @@
       "addedAt": "2026-07-13T12:09:16.878Z"
     }
   ],
-  "lastUpdated": "2026-07-13T13:09:59.610Z"
+  "lastUpdated": "2026-07-13T13:10:23.419Z"
 }

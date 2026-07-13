@@ -1043,7 +1043,25 @@
       "lastModified": "2026-07-13",
       "dateAdded": "2026-07-13",
       "addedAt": "2026-07-13T11:57:05.231Z"
+    },
+    {
+      "id": "mrj64r5po4d72gmmd",
+      "name": "Marvin Thomas",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-13",
+      "nextFollowUp": "2026-07-16",
+      "notes": "feb 2026 fb ad, very slight interaction",
+      "lastModified": "2026-07-13",
+      "dateAdded": "2026-07-13",
+      "addedAt": "2026-07-13T11:58:10.045Z"
     }
   ],
-  "lastUpdated": "2026-07-13T11:57:05.231Z"
+  "lastUpdated": "2026-07-13T11:58:10.045Z"
 }

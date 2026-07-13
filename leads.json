@@ -809,7 +809,25 @@
       "lastModified": "2026-07-13",
       "dateAdded": "2026-07-13",
       "addedAt": "2026-07-13T11:40:00.177Z"
+    },
+    {
+      "id": "mrj5js8h23da77nsk7h",
+      "name": "Alex Bazze",
+      "email": "abazze@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-13",
+      "nextFollowUp": "2026-07-16",
+      "notes": "jan 2026 fb ad, no interaction",
+      "lastModified": "2026-07-13",
+      "dateAdded": "2026-07-13",
+      "addedAt": "2026-07-13T11:41:51.665Z"
     }
   ],
-  "lastUpdated": "2026-07-13T11:40:00.177Z"
+  "lastUpdated": "2026-07-13T11:41:51.665Z"
 }

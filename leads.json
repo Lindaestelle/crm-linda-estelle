@@ -1277,7 +1277,25 @@
       "lastModified": "2026-07-13",
       "dateAdded": "2026-07-13",
       "addedAt": "2026-07-13T13:38:31.319Z"
+    },
+    {
+      "id": "mrj9rb1mxtuge21qi7",
+      "name": "Mike Pfenning",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-07-13",
+      "nextFollowUp": "2026-07-17",
+      "notes": "2025 fb ad, no interaction",
+      "lastModified": "2026-07-13",
+      "dateAdded": "2026-07-13",
+      "addedAt": "2026-07-13T13:39:41.098Z"
     }
   ],
-  "lastUpdated": "2026-07-13T13:38:31.319Z"
+  "lastUpdated": "2026-07-13T13:39:41.098Z"
 }

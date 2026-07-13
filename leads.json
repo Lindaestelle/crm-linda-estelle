@@ -927,7 +927,7 @@
       "source": "Facebook",
       "status": "Nurture",
       "videoSent": false,
-      "temperature": "Cold",
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-13",
       "nextFollowUp": "2026-07-16",
@@ -955,5 +955,5 @@
       "addedAt": "2026-07-13T11:50:39.516Z"
     }
   ],
-  "lastUpdated": "2026-07-13T11:50:39.516Z"
+  "lastUpdated": "2026-07-13T11:51:07.490Z"
 }

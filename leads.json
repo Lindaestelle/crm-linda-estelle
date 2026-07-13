@@ -1504,7 +1504,7 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Nurture",
       "lastContact": "2026-07-13",
       "nextFollowUp": "2026-07-17",
       "notes": "created a new follow up message to the first on in May, leaving income stream open",
@@ -1513,5 +1513,5 @@
       "addedAt": "2026-07-13T15:53:31.348Z"
     }
   ],
-  "lastUpdated": "2026-07-13T15:53:31.348Z"
+  "lastUpdated": "2026-07-13T15:54:11.400Z"
 }

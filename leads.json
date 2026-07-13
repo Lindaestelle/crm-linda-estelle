@@ -881,7 +881,25 @@
       "lastModified": "2026-07-13",
       "dateAdded": "2026-07-13",
       "addedAt": "2026-07-13T11:45:16.345Z"
+    },
+    {
+      "id": "mrj5pi06jyxxx6irwve",
+      "name": "Terry Eggimann",
+      "email": "rte.6881@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-13",
+      "nextFollowUp": "2026-07-16",
+      "notes": "jan 2026 fb ad, no interaction",
+      "lastModified": "2026-07-13",
+      "dateAdded": "2026-07-13",
+      "addedAt": "2026-07-13T11:46:18.342Z"
     }
   ],
-  "lastUpdated": "2026-07-13T11:45:16.345Z"
+  "lastUpdated": "2026-07-13T11:46:18.342Z"
 }

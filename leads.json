@@ -1223,7 +1223,25 @@
       "lastModified": "2026-07-13",
       "dateAdded": "2026-07-13",
       "addedAt": "2026-07-13T13:34:14.196Z"
+    },
+    {
+      "id": "mrj9mbsak5p50bong7",
+      "name": "Ritesh Ram",
+      "email": "rram@sbcglobal.net",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-07-13",
+      "nextFollowUp": "2026-07-17",
+      "notes": "2025 fb ad, no interaction",
+      "lastModified": "2026-07-13",
+      "dateAdded": "2026-07-13",
+      "addedAt": "2026-07-13T13:35:48.778Z"
     }
   ],
-  "lastUpdated": "2026-07-13T13:34:14.196Z"
+  "lastUpdated": "2026-07-13T13:35:48.778Z"
 }

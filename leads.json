@@ -1205,7 +1205,25 @@
       "lastModified": "2026-07-13",
       "dateAdded": "2026-07-13",
       "addedAt": "2026-07-13T13:32:23.240Z"
+    },
+    {
+      "id": "mrj9kat048o9p9zzm8r",
+      "name": "Hadi Hodaii",
+      "email": "Mmoh4651@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-07-13",
+      "nextFollowUp": "2026-07-17",
+      "notes": "2025 fb ad, no interaction",
+      "lastModified": "2026-07-13",
+      "dateAdded": "2026-07-13",
+      "addedAt": "2026-07-13T13:34:14.196Z"
     }
   ],
-  "lastUpdated": "2026-07-13T13:32:23.240Z"
+  "lastUpdated": "2026-07-13T13:34:14.196Z"
 }

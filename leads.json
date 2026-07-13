@@ -191,8 +191,8 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-07-08",
-      "nextFollowUp": "2026-07-11",
+      "lastContact": "2026-07-13",
+      "nextFollowUp": "2026-07-15",
       "notes": "Sniper Pro Scanner ad lead, no interaction",
       "lastModified": "2026-07-13",
       "dateAdded": "2026-06-01",
@@ -1189,5 +1189,5 @@
       "addedAt": "2026-07-13T12:09:16.878Z"
     }
   ],
-  "lastUpdated": "2026-07-13T12:40:36.739Z"
+  "lastUpdated": "2026-07-13T12:52:26.917Z"
 }

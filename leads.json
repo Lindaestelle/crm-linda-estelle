@@ -917,7 +917,25 @@
       "lastModified": "2026-07-13",
       "dateAdded": "2026-07-13",
       "addedAt": "2026-07-13T11:47:08.428Z"
+    },
+    {
+      "id": "mrj5tbv93soonkwwzly",
+      "name": "Lee-A-Smith",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Nurture",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-13",
+      "nextFollowUp": "2026-07-16",
+      "notes": "jan 2026 fb ad,  YES interaction",
+      "lastModified": "2026-07-13",
+      "dateAdded": "2026-07-13",
+      "addedAt": "2026-07-13T11:49:17.013Z"
     }
   ],
-  "lastUpdated": "2026-07-13T11:47:08.428Z"
+  "lastUpdated": "2026-07-13T11:49:17.013Z"
 }

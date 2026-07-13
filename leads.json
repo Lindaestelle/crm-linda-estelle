@@ -899,7 +899,25 @@
       "lastModified": "2026-07-13",
       "dateAdded": "2026-07-13",
       "addedAt": "2026-07-13T11:46:18.342Z"
+    },
+    {
+      "id": "mrj5qkngbf1nkbkxp49",
+      "name": "Brad Jackson",
+      "email": "drainslayer@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-13",
+      "nextFollowUp": "2026-07-16",
+      "notes": "jan 2026 fb ad, no interaction",
+      "lastModified": "2026-07-13",
+      "dateAdded": "2026-07-13",
+      "addedAt": "2026-07-13T11:47:08.428Z"
     }
   ],
-  "lastUpdated": "2026-07-13T11:46:18.342Z"
+  "lastUpdated": "2026-07-13T11:47:08.428Z"
 }

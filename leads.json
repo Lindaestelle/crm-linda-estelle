@@ -1331,7 +1331,25 @@
       "lastModified": "2026-07-13",
       "dateAdded": "2026-07-13",
       "addedAt": "2026-07-13T13:43:53.688Z"
+    },
+    {
+      "id": "mrj9yr127dxdsdyly6t",
+      "name": "Sanjula Wijayaratne",
+      "email": "wijayaratnesanhula@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-07-13",
+      "nextFollowUp": "2026-07-17",
+      "notes": "2025 fb ad, no interaction",
+      "lastModified": "2026-07-13",
+      "dateAdded": "2026-07-13",
+      "addedAt": "2026-07-13T13:45:28.407Z"
     }
   ],
-  "lastUpdated": "2026-07-13T13:43:53.688Z"
+  "lastUpdated": "2026-07-13T13:45:28.407Z"
 }

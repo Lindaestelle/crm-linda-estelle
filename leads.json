@@ -773,7 +773,25 @@
       "lastModified": "2026-07-10",
       "dateAdded": "2026-07-10",
       "addedAt": "2026-07-10T13:15:53.272Z"
+    },
+    {
+      "id": "mrj5fkpbqdqgszlb5gi",
+      "name": "Vladimir Pritske",
+      "email": "pvlad1@yahoo.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-13",
+      "nextFollowUp": "2026-07-16",
+      "notes": "Jan fb ad, no interaction",
+      "lastModified": "2026-07-13",
+      "dateAdded": "2026-07-13",
+      "addedAt": "2026-07-13T11:38:35.279Z"
     }
   ],
-  "lastUpdated": "2026-07-10T13:15:53.272Z"
+  "lastUpdated": "2026-07-13T11:38:35.279Z"
 }

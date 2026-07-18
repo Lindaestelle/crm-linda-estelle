@@ -928,11 +928,11 @@
       "status": "Nurture",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-13",
-      "nextFollowUp": "2026-07-16",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-07-18",
+      "nextFollowUp": "2026-07-22",
       "notes": "Jan 2025 fb ad, YES some interaction",
-      "lastModified": "2026-07-13",
+      "lastModified": "2026-07-18",
       "dateAdded": "2026-07-13",
       "addedAt": "2026-07-13T11:50:39.516Z"
     },
@@ -1513,5 +1513,5 @@
       "addedAt": "2026-07-13T15:53:31.348Z"
     }
   ],
-  "lastUpdated": "2026-07-18T20:28:57.638Z"
+  "lastUpdated": "2026-07-18T20:29:42.357Z"
 }

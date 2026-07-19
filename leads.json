@@ -253,24 +253,6 @@
       "addedAt": "2026-07-09T11:31:12.587Z"
     },
     {
-      "id": "mrdfl0eddintnou56ts",
-      "name": "Ken Burrell",
-      "email": "burrell00@gmail.com",
-      "phone": "",
-      "social": "",
-      "source": "Instagram",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-09",
-      "nextFollowUp": "2026-07-12",
-      "notes": "From fb ad, no interaction",
-      "lastModified": "2026-07-09",
-      "dateAdded": "2026-07-09",
-      "addedAt": "2026-07-09T11:36:08.006Z"
-    },
-    {
       "id": "mrdfnrct5mdre4lruwj",
       "name": "Mr. Green",
       "email": "mrgreen96707@gmail.com",
@@ -1495,5 +1477,5 @@
       "addedAt": "2026-07-13T15:53:31.348Z"
     }
   ],
-  "lastUpdated": "2026-07-19T22:10:58.507Z"
+  "lastUpdated": "2026-07-19T22:14:10.270Z"
 }

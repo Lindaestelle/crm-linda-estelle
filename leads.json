@@ -1271,10 +1271,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-23",
-      "nextFollowUp": "2026-07-28",
-      "notes": "2025 fb ad",
-      "lastModified": "2026-07-23",
+      "lastContact": "2026-07-24",
+      "nextFollowUp": "2026-08-23",
+      "notes": "2025 fb ad, david added him to discover group a couple years back.  He's seen IM/Jifu is exploring other options.",
+      "lastModified": "2026-07-24",
       "dateAdded": "2026-07-13",
       "addedAt": "2026-07-13T13:43:53.688Z"
     },
@@ -1459,5 +1459,5 @@
       "addedAt": "2026-07-13T15:53:31.348Z"
     }
   ],
-  "lastUpdated": "2026-07-23T15:51:24.184Z"
+  "lastUpdated": "2026-07-24T13:51:23.909Z"
 }

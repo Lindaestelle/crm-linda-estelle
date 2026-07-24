@@ -1416,7 +1416,7 @@
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-24",
-      "nextFollowUp": "2026-08-23",
+      "nextFollowUp": "2026-08-07",
       "notes": "2025 fb ad, no interaction ",
       "lastModified": "2026-07-24",
       "dateAdded": "2026-07-13",
@@ -1459,5 +1459,5 @@
       "addedAt": "2026-07-13T15:53:31.348Z"
     }
   ],
-  "lastUpdated": "2026-07-24T14:05:23.974Z"
+  "lastUpdated": "2026-07-24T14:05:46.491Z"
 }

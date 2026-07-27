@@ -1511,7 +1511,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T22:54:15.327Z"
+    },
+    {
+      "id": "ms3ts392s9cwuh6zfii",
+      "name": "Steven Tartt",
+      "email": "Marinecleanllc1@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-07-30",
+      "notes": "",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T22:55:33.494Z"
     }
   ],
-  "lastUpdated": "2026-07-27T22:54:15.327Z"
+  "lastUpdated": "2026-07-27T22:55:33.494Z"
 }

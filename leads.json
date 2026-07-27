@@ -1529,7 +1529,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T22:55:33.494Z"
+    },
+    {
+      "id": "ms3ttrl2hiulfk37qun",
+      "name": "Rick Mackey",
+      "email": "rpmackey50@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-07-30",
+      "notes": "",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T22:56:51.686Z"
     }
   ],
-  "lastUpdated": "2026-07-27T22:55:33.494Z"
+  "lastUpdated": "2026-07-27T22:56:51.686Z"
 }

@@ -65,10 +65,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
-      "lastContact": "2026-07-18",
-      "nextFollowUp": "2026-07-23",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-08-03",
       "notes": "Sniper Pro ad, no interaction",
-      "lastModified": "2026-07-18",
+      "lastModified": "2026-07-27",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T20:34:03.272Z"
     },
@@ -1441,5 +1441,5 @@
       "addedAt": "2026-07-13T15:53:31.348Z"
     }
   ],
-  "lastUpdated": "2026-07-27T22:35:31.572Z"
+  "lastUpdated": "2026-07-27T22:37:29.169Z"
 }

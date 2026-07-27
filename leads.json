@@ -1037,10 +1037,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-07-18",
-      "nextFollowUp": "2026-07-23",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-07-30",
       "notes": "feb 2026 fb ad, slight interaction",
-      "lastModified": "2026-07-18",
+      "lastModified": "2026-07-27",
       "dateAdded": "2026-07-13",
       "addedAt": "2026-07-13T12:04:13.008Z"
     },
@@ -1441,5 +1441,5 @@
       "addedAt": "2026-07-13T15:53:31.348Z"
     }
   ],
-  "lastUpdated": "2026-07-27T22:42:09.411Z"
+  "lastUpdated": "2026-07-27T22:45:16.780Z"
 }

@@ -1475,7 +1475,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T22:51:39.196Z"
+    },
+    {
+      "id": "ms3tot7ml2fzeig38p",
+      "name": "Shawar Angels",
+      "email": "saimajb@hotmail.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-07-30",
+      "notes": "",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T22:53:00.514Z"
     }
   ],
-  "lastUpdated": "2026-07-27T22:51:39.196Z"
+  "lastUpdated": "2026-07-27T22:53:00.514Z"
 }

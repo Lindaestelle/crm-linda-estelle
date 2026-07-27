@@ -47,10 +47,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-07-18",
-      "nextFollowUp": "2026-07-23",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-08-03",
       "notes": "Sniper Ad lead.  Was interested.  Info sent.  No follow through.",
-      "lastModified": "2026-07-18",
+      "lastModified": "2026-07-27",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T15:45:36.118Z"
     },
@@ -1441,5 +1441,5 @@
       "addedAt": "2026-07-13T15:53:31.348Z"
     }
   ],
-  "lastUpdated": "2026-07-27T22:37:29.169Z"
+  "lastUpdated": "2026-07-27T22:38:31.658Z"
 }

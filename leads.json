@@ -1547,7 +1547,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T22:56:51.686Z"
+    },
+    {
+      "id": "ms3twm85zj2g8upldx",
+      "name": "Bob Kennedy",
+      "email": "wingosone@yahoo.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T22:59:04.709Z"
     }
   ],
-  "lastUpdated": "2026-07-27T22:56:51.686Z"
+  "lastUpdated": "2026-07-27T22:59:04.709Z"
 }

@@ -1414,11 +1414,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-23",
-      "nextFollowUp": "2026-07-28",
+      "lastAction": "Follow-up 4",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": "2026-07-31",
       "notes": "2025 fb ad, slight interaction Looking over the information 2-3 days ",
-      "lastModified": "2026-07-23",
+      "lastModified": "2026-07-28",
       "dateAdded": "2026-07-13",
       "addedAt": "2026-07-13T15:25:29.275Z"
     },
@@ -1657,5 +1657,5 @@
       "addedAt": "2026-07-27T23:10:53.637Z"
     }
   ],
-  "lastUpdated": "2026-07-28T16:28:32.070Z"
+  "lastUpdated": "2026-07-28T16:49:17.707Z"
 }

@@ -1433,10 +1433,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-23",
-      "nextFollowUp": "2026-07-28",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": "2026-07-31",
       "notes": "created a new follow up message to the first on in May, leaving income stream open   ",
-      "lastModified": "2026-07-23",
+      "lastModified": "2026-07-28",
       "dateAdded": "2026-07-13",
       "addedAt": "2026-07-13T15:53:31.348Z"
     },
@@ -1657,5 +1657,5 @@
       "addedAt": "2026-07-27T23:10:53.637Z"
     }
   ],
-  "lastUpdated": "2026-07-27T23:10:53.637Z"
+  "lastUpdated": "2026-07-28T16:28:32.070Z"
 }

@@ -1871,7 +1871,25 @@
       "lastModified": "2026-07-29",
       "dateAdded": "2026-07-28",
       "addedAt": "2026-07-28T20:23:50.189Z"
+    },
+    {
+      "id": "ms68eieiwm1g1x0cx2",
+      "name": "John Yoo",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-29",
+      "nextFollowUp": "2026-08-01",
+      "notes": "",
+      "lastModified": "2026-07-29",
+      "dateAdded": "2026-07-29",
+      "addedAt": "2026-07-29T15:20:26.539Z"
     }
   ],
-  "lastUpdated": "2026-07-29T15:19:31.807Z"
+  "lastUpdated": "2026-07-29T15:20:26.539Z"
 }

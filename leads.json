@@ -1907,7 +1907,25 @@
       "lastModified": "2026-07-29",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-29T15:22:07.346Z"
+    },
+    {
+      "id": "ms68iw4dv43bvrvgr49",
+      "name": "Casey Lattimer",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-29",
+      "nextFollowUp": "2026-08-01",
+      "notes": "",
+      "lastModified": "2026-07-29",
+      "dateAdded": "2026-07-29",
+      "addedAt": "2026-07-29T15:23:50.942Z"
     }
   ],
-  "lastUpdated": "2026-07-29T15:22:07.346Z"
+  "lastUpdated": "2026-07-29T15:23:50.942Z"
 }

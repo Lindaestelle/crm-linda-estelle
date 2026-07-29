@@ -619,14 +619,14 @@
       "phone": "",
       "social": "",
       "source": "Instagram",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-27",
       "nextFollowUp": "2026-08-03",
       "notes": "Jan fb lead, yes was interested & interaction",
-      "lastModified": "2026-07-27",
+      "lastModified": "2026-07-29",
       "dateAdded": "2026-07-10",
       "addedAt": "2026-07-10T13:07:13.091Z"
     },
@@ -2053,5 +2053,5 @@
       "addedAt": "2026-07-29T15:47:04.271Z"
     }
   ],
-  "lastUpdated": "2026-07-29T15:47:04.272Z"
+  "lastUpdated": "2026-07-29T18:43:15.076Z"
 }

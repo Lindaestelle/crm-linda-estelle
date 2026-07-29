@@ -1997,7 +1997,25 @@
       "lastModified": "2026-07-29",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-29T15:32:39.730Z"
+    },
+    {
+      "id": "ms69769a3olemd32tal",
+      "name": "Baby-Jay Barbie",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-29",
+      "nextFollowUp": "2026-08-01",
+      "notes": "",
+      "lastModified": "2026-07-29",
+      "dateAdded": "2026-07-29",
+      "addedAt": "2026-07-29T15:42:43.822Z"
     }
   ],
-  "lastUpdated": "2026-07-29T15:32:39.730Z"
+  "lastUpdated": "2026-07-29T15:42:43.822Z"
 }

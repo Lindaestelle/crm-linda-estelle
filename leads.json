@@ -2069,7 +2069,25 @@
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T17:41:05.505Z"
+    },
+    {
+      "id": "ms7sznexof74670x19",
+      "name": "John Harrison",
+      "email": "John.harrison5@outlook.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-02",
+      "notes": "",
+      "lastModified": "2026-07-30",
+      "dateAdded": "2026-07-30",
+      "addedAt": "2026-07-30T17:44:31.305Z"
     }
   ],
-  "lastUpdated": "2026-07-30T17:41:05.505Z"
+  "lastUpdated": "2026-07-30T17:44:31.305Z"
 }

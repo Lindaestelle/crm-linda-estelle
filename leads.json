@@ -1640,7 +1640,7 @@
     },
     {
       "id": "ms3ubt8lq59f62dcpr",
-      "name": "Johnathan Glenn",
+      "name": "Jonathan Glenn",
       "email": "jongle99999@gmail.com",
       "phone": "",
       "social": "",
@@ -1649,10 +1649,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-27",
-      "nextFollowUp": "2026-07-30",
-      "notes": "",
-      "lastModified": "2026-07-27",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-06",
+      "notes": "Hey Jonathan, I was thinking about our conversation the other day.\n\nI'm curious... what's your goal with trading these days? Are you hoping it eventually replaces your income, or is it more about creating an additional income stream alongside what you're already doing?",
+      "lastModified": "2026-07-30",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T23:10:53.637Z"
     },
@@ -2053,5 +2053,5 @@
       "addedAt": "2026-07-29T15:47:04.271Z"
     }
   ],
-  "lastUpdated": "2026-07-30T17:24:18.473Z"
+  "lastUpdated": "2026-07-30T17:35:20.195Z"
 }

@@ -2087,7 +2087,25 @@
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T17:44:31.305Z"
+    },
+    {
+      "id": "ms7t46xiwxcjv0zxgnd",
+      "name": "Ken Burrell",
+      "email": "burrell00@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-02",
+      "notes": "",
+      "lastModified": "2026-07-30",
+      "dateAdded": "2026-07-30",
+      "addedAt": "2026-07-30T17:48:03.222Z"
     }
   ],
-  "lastUpdated": "2026-07-30T17:44:31.305Z"
+  "lastUpdated": "2026-07-30T17:48:03.223Z"
 }

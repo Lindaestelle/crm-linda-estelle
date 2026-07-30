@@ -2123,7 +2123,25 @@
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T17:49:57.646Z"
+    },
+    {
+      "id": "ms7t9hbuehgq4uhiv9p",
+      "name": "Sean",
+      "email": "cruisewithsean@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-02",
+      "notes": "",
+      "lastModified": "2026-07-30",
+      "dateAdded": "2026-07-30",
+      "addedAt": "2026-07-30T17:52:09.978Z"
     }
   ],
-  "lastUpdated": "2026-07-30T17:49:57.647Z"
+  "lastUpdated": "2026-07-30T17:52:09.978Z"
 }

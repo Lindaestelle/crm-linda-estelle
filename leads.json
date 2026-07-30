@@ -2051,7 +2051,25 @@
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-29T15:47:04.271Z"
+    },
+    {
+      "id": "ms7sv8m9a78ri42yrl",
+      "name": "Cesar Torres",
+      "email": "flaviotorres2012@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-02",
+      "notes": "",
+      "lastModified": "2026-07-30",
+      "dateAdded": "2026-07-30",
+      "addedAt": "2026-07-30T17:41:05.505Z"
     }
   ],
-  "lastUpdated": "2026-07-30T17:35:20.195Z"
+  "lastUpdated": "2026-07-30T17:41:05.505Z"
 }

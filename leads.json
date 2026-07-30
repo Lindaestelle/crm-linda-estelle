@@ -2159,7 +2159,25 @@
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T17:54:35.855Z"
+    },
+    {
+      "id": "ms7tmdw09rc3e9b6bnc",
+      "name": "Davis",
+      "email": "ziyuansunba@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-13",
+      "notes": "",
+      "lastModified": "2026-07-30",
+      "dateAdded": "2026-07-30",
+      "addedAt": "2026-07-30T18:02:12.048Z"
     }
   ],
-  "lastUpdated": "2026-07-30T17:54:35.855Z"
+  "lastUpdated": "2026-07-30T18:02:12.048Z"
 }
